@@ -9,7 +9,7 @@ I'm coding plug-ins for SCP:SL and my Discord server, Azarus, but I publish some
 If you want to help us to create plug-ins you can join the team as long as you know how to speak french or/and english and code in C#.
 
 
-Azarus Discord : https://discord.gg/EnFngM8
+Azarus Discord : https://discord.gg/ddeYeYD7Y9
 Azarus Youtube : https://www.youtube.com/channel/UCTVGYzg1SIpAmpPo5HHkw1g
 Azarus Patreon : https://www.patreon.com/AzarusSCPsl?fan_landing=true
 
